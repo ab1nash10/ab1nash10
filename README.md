@@ -1,7 +1,4 @@
 Hi 🖐️My name is Abinash kumar sahoo
-===========================================================================================================================================
-
-I have been learning full stack web development
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [ab1nashkumar9815@gmail.com](mailto:ab1nashkumar9815@gmail.com)
